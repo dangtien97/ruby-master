@@ -1,21 +1,9 @@
 # README
 
-Ruby 2.5.1 + Rail 
+Ruby 2.5.1 + Rails 5.2.1 
 
-* Ruby version
+* rails db:migrate
 
-* System dependencies
+* rails s
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**>>> Enjoy Rails!**
